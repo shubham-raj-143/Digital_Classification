@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application.Kotlin_digitClassifier</string>
+    <string name="clear_button">clear button</string>
+    <string name="prediction_place_holder">Draw a Digit</string>
+    <string name="classification_error">error</string>
+</resources>
